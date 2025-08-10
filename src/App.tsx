@@ -285,15 +285,20 @@ export default function App() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium mb-1">Held visas or privileges</label>
-              <div className="flex flex-wrap gap-2">
-                {["US_visa","UK_visa","Schengen_visa","Japan_visa","Australia_visa","Canada_visa","GCC_residence"].map(pv => (
-                  <button key={pv} onClick={() => togglePrivilege(pv as any)}
-                    className={`px-3 py-1 rounded-full border text-sm ${state.privileges[pv as any] ? "bg-indigo-600 text-white" : "bg-white"}`}>
-                    {pv.replace("_", " ")}
-                  </button>
-                ))}
-              </div>
+            <label className="block text-sm font-medium mb-1">Held visas or privileges</label>
+<div className="flex flex-wrap gap-2">
+  {PRIV_LIST.map((pv) => (
+    <button
+      key={pv}
+      onClick={() => togglePrivilege(pv)}
+      className={`px-3 py-1 rounded-full border text-sm ${
+        state.privileges[pv] ? "bg-indigo-600 text-white" : "bg-white"
+      }`}
+    >
+      {pv.replace("_", " ")}
+    </button>
+  ))}
+</div>
               <p className="mt-1 text-xs text-slate-500">
                 These flags filter destinations that become easier with certain third-country visas. All logic is [Unverified].
               </p>
