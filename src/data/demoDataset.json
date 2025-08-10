@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Nepal",
+    "iso2": "NP",
+    "region": "Asia",
+    "flag": "\ud83c\uddf3\ud83c\uddf5",
+    "base": {
+      "visaType": "visa_free",
+      "notes": "[Unverified] Permit on arrival with valid Indian ID."
+    },
+    "flightHoursFromDEL": 1.5,
+    "bestMonths": [
+      3,
+      4,
+      10,
+      11
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "region": "Asia",
+    "flag": "\ud83c\udde7\ud83c\uddf9",
+    "base": {
+      "visaType": "visa_free",
+      "notes": "[Unverified] Entry permit on arrival with valid ID."
+    },
+    "flightHoursFromDEL": 2.0,
+    "bestMonths": [
+      3,
+      4,
+      10,
+      11
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "region": "Asia",
+    "flag": "\ud83c\uddf1\ud83c\uddf0",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] ETA online."
+    },
+    "flightHoursFromDEL": 3.5,
+    "bestMonths": [
+      1,
+      2,
+      7,
+      8
+    ]
+  },
+  {
+    "name": "Thailand",
+    "iso2": "TH",
+    "region": "Asia",
+    "flag": "\ud83c\uddf9\ud83c\udded",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa or VOA depending on program."
+    },
+    "flightHoursFromDEL": 4.0,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "region": "Asia",
+    "flag": "\ud83c\uddee\ud83c\udde9",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] e-VOA may be available."
+    },
+    "flightHoursFromDEL": 7.0,
+    "bestMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "name": "Maldives",
+    "iso2": "MV",
+    "region": "Asia",
+    "flag": "\ud83c\uddf2\ud83c\uddfb",
+    "base": {
+      "visaType": "voa",
+      "notes": "[Unverified] VOA often up to 30 days."
+    },
+    "flightHoursFromDEL": 4.0,
+    "bestMonths": [
+      1,
+      2,
+      3,
+      12
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "region": "Africa",
+    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "base": {
+      "visaType": "voa",
+      "notes": "[Unverified] Short-stay VOA."
+    },
+    "flightHoursFromDEL": 7.0,
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "region": "Africa",
+    "flag": "\ud83c\uddf8\ud83c\udde8",
+    "base": {
+      "visaType": "voa",
+      "notes": "[Unverified] Visitor permit on arrival."
+    },
+    "flightHoursFromDEL": 6.5,
+    "bestMonths": [
+      4,
+      5,
+      10,
+      11
+    ]
+  },
+  {
+    "name": "Armenia",
+    "iso2": "AM",
+    "region": "Europe",
+    "flag": "\ud83c\udde6\ud83c\uddf2",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa/VOA commonly available."
+    },
+    "flightHoursFromDEL": 4.0,
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  {
+    "name": "Georgia",
+    "iso2": "GE",
+    "region": "Europe",
+    "flag": "\ud83c\uddec\ud83c\uddea",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa option for many."
+    },
+    "flightHoursFromDEL": 4.5,
+    "bestMonths": [
+      5,
+      6,
+      9,
+      10
+    ]
+  },
+  {
+    "name": "Kenya",
+    "iso2": "KE",
+    "region": "Africa",
+    "flag": "\ud83c\uddf0\ud83c\uddea",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa required."
+    },
+    "flightHoursFromDEL": 7.0,
+    "bestMonths": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "iso2": "TZ",
+    "region": "Africa",
+    "flag": "\ud83c\uddf9\ud83c\uddff",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa or VOA."
+    },
+    "flightHoursFromDEL": 8.5,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "name": "Qatar",
+    "iso2": "QA",
+    "region": "Middle East",
+    "flag": "\ud83c\uddf6\ud83c\udde6",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa or ETA style programs."
+    },
+    "flightHoursFromDEL": 3.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "region": "Africa",
+    "flag": "\ud83c\uddf7\ud83c\uddfc",
+    "base": {
+      "visaType": "evisa",
+      "notes": "[Unverified] eVisa or VOA."
+    },
+    "flightHoursFromDEL": 9.0,
+    "bestMonths": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "name": "Oman",
+    "iso2": "OM",
+    "region": "Middle East",
+    "flag": "\ud83c\uddf4\ud83c\uddf2",
+    "base": {
+      "visaType": "visa_required",
+      "notes": "[Unverified] eVisa required for most."
+    },
+    "conditional": [
+      {
+        "visaType": "evisa",
+        "notes": "[Unverified] Possible simplified eVisa if holding UK/US/Schengen valid visa.",
+        "requiresAnyPrivileges": [
+          "US_visa",
+          "UK_visa",
+          "Schengen_visa"
+        ]
+      }
+    ],
+    "flightHoursFromDEL": 3.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "UAE",
+    "iso2": "AE",
+    "region": "Middle East",
+    "flag": "\ud83c\udde6\ud83c\uddea",
+    "base": {
+      "visaType": "visa_required",
+      "notes": "[Unverified] eVisa required for Indian passport."
+    },
+    "conditional": [
+      {
+        "visaType": "voa",
+        "notes": "[Unverified] VOA may apply if holding valid US visa or certain GCC residence.",
+        "requiresAnyPrivileges": [
+          "US_visa",
+          "GCC_residence"
+        ]
+      }
+    ],
+    "flightHoursFromDEL": 3.5,
+    "bestMonths": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ]
+  }
+]
