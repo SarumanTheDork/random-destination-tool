@@ -210,13 +210,35 @@ export default function App() {
   function onFileChange(e: React.ChangeEvent<HTMLInputElement>) {
     const f = e.target.files?.[0];
     if (!f) return;
+  
     const reader = new FileReader();
     reader.onload = () => {
       try {
         const json = JSON.parse(String(reader.result));
-        if (Array.isArray(json)) setData(json);
-      } catch {}
+  
+        if (Array.isArray(json)) {
+          setData(prev => {
+            // Combine
+            const combined = [...prev, ...json];
+  
+            // De-dup by iso2 if available, else by lowercased name
+            const seen = new Set<string>();
+            const deduped = combined.filter((item: any) => {
+              const key = (item.iso2 ?? item.iso ?? item.isoCode ?? item.cc ?? item.name)?.toString().toLowerCase();
+              if (!key) return true; // keep if no key (rare)
+              if (seen.has(key)) return false;
+              seen.add(key);
+              return true;
+            });
+  
+            return deduped;
+          });
+        }
+      } catch (err) {
+        console.error("Invalid JSON file", err);
+      }
     };
+  
     reader.readAsText(f);
     e.target.value = "";
   }
