@@ -291,7 +291,7 @@ export default function App() {
             </div>
 
             <div>
-              <label className="block text sm font-medium mb-1">Exclude countries (comma separated)</label>
+              <label className="block text-sm font-medium mb-1">Exclude countries (comma separated)</label>
               <input className="w-full border rounded-lg px-3 py-2" placeholder="e.g., Thailand, Maldives"
                      value={state.exclude}
                      onChange={e => setState(s => ({ ...s, exclude: e.target.value }))} />
