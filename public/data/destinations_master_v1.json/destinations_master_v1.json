@@ -1,0 +1,1385 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at_utc": "2025-09-03T21:58:00.616386Z",
+  "count": 80,
+  "destinations": [
+    {
+      "country": "Nepal",
+      "region": "Asia",
+      "subregion": "South Asia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": null,
+      "flightHoursFromDEL_est": 2,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Entry for Indians with passport or voter ID."
+    },
+    {
+      "country": "Bhutan",
+      "region": "Asia",
+      "subregion": "South Asia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": null,
+      "flightHoursFromDEL_est": 2,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Permit issued at border; passport or voter ID."
+    },
+    {
+      "country": "Sri Lanka",
+      "region": "Asia",
+      "subregion": "South Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 3,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "ETA online before travel."
+    },
+    {
+      "country": "Indonesia",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 8,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Electronic application before travel."
+    },
+    {
+      "country": "Malaysia",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online; carry return ticket."
+    },
+    {
+      "country": "Thailand",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 4,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online prior to arrival."
+    },
+    {
+      "country": "Vietnam",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Single-entry eVisa."
+    },
+    {
+      "country": "Cambodia",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Laos",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Valid at designated ports."
+    },
+    {
+      "country": "Myanmar",
+      "region": "Asia",
+      "subregion": "Southeast Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 28,
+      "flightHoursFromDEL_est": 3,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist eVisa required."
+    },
+    {
+      "country": "Armenia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 120,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Multiple durations available."
+    },
+    {
+      "country": "Georgia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online; check entry points."
+    },
+    {
+      "country": "Kazakhstan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 4,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Single-entry eVisa."
+    },
+    {
+      "country": "Uzbekistan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 3.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Jordan",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online in advance."
+    },
+    {
+      "country": "Oman",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 3,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online eVisa."
+    },
+    {
+      "country": "Qatar",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 3.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-travel eVisa/authorization."
+    },
+    {
+      "country": "Kyrgyzstan",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 3.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist eVisa."
+    },
+    {
+      "country": "Mongolia",
+      "region": "Asia",
+      "subregion": "East Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online eVisa portal."
+    },
+    {
+      "country": "Tanzania",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist eVisa required."
+    },
+    {
+      "country": "Mauritius",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 7,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Return/onward ticket often requested."
+    },
+    {
+      "country": "Seychelles",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 8,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Visitor\u2019s permit issued free; proof of stay required."
+    },
+    {
+      "country": "Fiji",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 120,
+      "flightHoursFromDEL_est": 14,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Sufficient funds and return ticket."
+    },
+    {
+      "country": "Dominica",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 180,
+      "flightHoursFromDEL_est": 20,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Long-stay tourist allowance."
+    },
+    {
+      "country": "Barbados",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 20,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Proof of accommodation advised."
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 20,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Onward/return ticket recommended."
+    },
+    {
+      "country": "Grenada",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 20,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Funds and accommodation may be checked."
+    },
+    {
+      "country": "Ecuador",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Passport validity check."
+    },
+    {
+      "country": "El Salvador",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist card requirement varies."
+    },
+    {
+      "country": "Jamaica",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Short-stay tourism."
+    },
+    {
+      "country": "Paraguay",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online, single-entry."
+    },
+    {
+      "country": "Bolivia",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application before travel."
+    },
+    {
+      "country": "Suriname",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "E-visa/ETV system."
+    },
+    {
+      "country": "Guyana",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online in advance."
+    },
+    {
+      "country": "Iran",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-travel eVisa recommended."
+    },
+    {
+      "country": "Belarus",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 7,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online system for select nationalities."
+    },
+    {
+      "country": "Rwanda",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 10,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Quick online processing."
+    },
+    {
+      "country": "Uganda",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Single-entry eVisa."
+    },
+    {
+      "country": "Zambia",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 10,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Zimbabwe",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 10,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa portal available."
+    },
+    {
+      "country": "Hong Kong (SAR)",
+      "region": "Asia",
+      "subregion": "East Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 14,
+      "flightHoursFromDEL_est": 5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-arrival registration (PAR)."
+    },
+    {
+      "country": "Macao (SAR)",
+      "region": "Asia",
+      "subregion": "East Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 5.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-arrival registration."
+    },
+    {
+      "country": "Taiwan",
+      "region": "Asia",
+      "subregion": "East Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [
+        "US_visa",
+        "UK_visa",
+        "Schengen_visa",
+        "Japan_visa"
+      ],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa/online authorization for holders of certain visas."
+    },
+    {
+      "country": "Turkey",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [
+        "US_visa",
+        "UK_visa",
+        "Schengen_visa"
+      ],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa if holding certain valid visas."
+    },
+    {
+      "country": "Egypt",
+      "region": "Africa",
+      "subregion": "North Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 6,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online before travel."
+    },
+    {
+      "country": "Ethiopia",
+      "region": "Africa",
+      "subregion": "East Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 7,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online portal; quick processing."
+    },
+    {
+      "country": "Mozambique",
+      "region": "Africa",
+      "subregion": "Southeast Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa for tourism."
+    },
+    {
+      "country": "Malawi",
+      "region": "Africa",
+      "subregion": "Southeast Africa",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online."
+    },
+    {
+      "country": "Papua New Guinea",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 12,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online eVisa for tourists."
+    },
+    {
+      "country": "Palau",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 12,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online in advance."
+    },
+    {
+      "country": "Solomon Islands",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 15,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Samoa",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 14,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-travel eVisa."
+    },
+    {
+      "country": "Tonga",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 16,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Vanuatu",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 13,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Short-stay tourism."
+    },
+    {
+      "country": "Aruba",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 21,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "ED card / online authorization."
+    },
+    {
+      "country": "Bahrain",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 14,
+      "flightHoursFromDEL_est": 3.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist eVisa platform."
+    },
+    {
+      "country": "Azerbaijan",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 4,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "ASAN eVisa system."
+    },
+    {
+      "country": "Saudi Arabia",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 4.5,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist eVisa for select nationals; [Unverified for IN]."
+    },
+    {
+      "country": "Albania",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [
+        "US_visa",
+        "UK_visa",
+        "Schengen_visa"
+      ],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa/entry eased with certain visas."
+    },
+    {
+      "country": "North Macedonia",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 9,
+      "eligible_with": [
+        "Schengen_visa"
+      ],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Policy varies; check latest."
+    },
+    {
+      "country": "Micronesia",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 12,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Short-stay tourism."
+    },
+    {
+      "country": "Cook Islands",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 31,
+      "flightHoursFromDEL_est": 16,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Passport validity and onward ticket."
+    },
+    {
+      "country": "Niue",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "visa_flags": {
+        "visa_free": true,
+        "evisa": false,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 16,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Accommodation and funds may be checked."
+    },
+    {
+      "country": "Marshall Islands",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 14,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online."
+    },
+    {
+      "country": "Kiribati",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 16,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Tuvalu",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 16,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online prior to travel."
+    },
+    {
+      "country": "Nauru",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 14,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-travel eVisa."
+    },
+    {
+      "country": "Belize",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online authorization/eVisa."
+    },
+    {
+      "country": "Costa Rica",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [
+        "US_visa",
+        "Schengen_visa"
+      ],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Entry eased with valid US/Schengen visa."
+    },
+    {
+      "country": "Panama",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online eVisa portal."
+    },
+    {
+      "country": "Nicaragua",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online."
+    },
+    {
+      "country": "Guatemala",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application."
+    },
+    {
+      "country": "Honduras",
+      "region": "North America",
+      "subregion": "Central America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "eVisa before travel."
+    },
+    {
+      "country": "Cuba",
+      "region": "North America",
+      "subregion": "Caribbean",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 30,
+      "flightHoursFromDEL_est": 22,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Tourist card (online)."
+    },
+    {
+      "country": "Peru",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online; check supporting docs."
+    },
+    {
+      "country": "Colombia",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online eVisa process."
+    },
+    {
+      "country": "Chile",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Online application portal."
+    },
+    {
+      "country": "Argentina",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Electronic application."
+    },
+    {
+      "country": "Uruguay",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Apply online prior to travel."
+    },
+    {
+      "country": "Venezuela",
+      "region": "South America",
+      "subregion": "South America",
+      "visa_flags": {
+        "visa_free": false,
+        "evisa": true,
+        "visa_on_arrival": false,
+        "visa_required": false
+      },
+      "max_stay_days": 90,
+      "flightHoursFromDEL_est": 24,
+      "eligible_with": [],
+      "excluded": false,
+      "policy_status": "[Unverified]",
+      "notes": "Pre-travel authorization."
+    }
+  ]
+}
