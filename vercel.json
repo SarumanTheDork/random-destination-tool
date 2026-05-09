@@ -1,10 +1,28 @@
 {
   "headers": [
     {
-      "source": "(.*)",
+      "source": "/(.*)",
       "headers": [
         { "key": "X-Robots-Tag", "value": "noindex" }
       ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/tools/random-destination-picker/assets/:path*",
+      "destination": "/assets/:path*"
+    },
+    {
+      "source": "/tools/random-destination-picker/favicon.svg",
+      "destination": "/favicon.svg"
+    },
+    {
+      "source": "/tools/random-destination-picker/robots.txt",
+      "destination": "/robots.txt"
+    },
+    {
+      "source": "/tools/random-destination-picker/:path*",
+      "destination": "/index.html"
     }
   ]
 }
